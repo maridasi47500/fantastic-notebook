@@ -256,7 +256,8 @@ experience
 experience
 -
 | hypothese | experience / solution | solution retenue o/n |
-| --- | --- |
+
+| --- | --- | --- | 
 | trop de pression d'archet | pression arco -- | N |
 | pas assez de pression des doigts main gauche | pression main gauche ++ | N |
 | détente des 2 pouces | détente | O |
@@ -273,7 +274,8 @@ experience
 - **hypothese** le demanche n'est pas propre
 
 | hypothese | experience / solution | solution retenue o/n |
-| --- | --- |
+
+| --- | --- | 
 | préparer le démanché | 2e visualiser | 
 | pas en rythme | métronome, dire le rythme |
 
