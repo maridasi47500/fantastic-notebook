@@ -214,3 +214,70 @@ expérience
 - 4.1. soulever les doigts plus vite
 - 4.2. soulever les doigts plus dynamiquement
 - 4.3. bien placer la main gauche le bas de la troisieme phallange du doigt contre le manche
+
+experience
+-
+
+- **probleme rencontre** on entend le changement de corde
+- **hypothese** 1. coude
+- 2. pression archet
+  3. preparation 4e doigt maingauche
+  4. détente pouce/poignet
+  5. postur buste
+ 
+- **resultats tests**
+- **solutions retenues** coude, pression archet archet droit, preparation
+
+experience
+-
+
+- **probleme rencontre** corde de ré 3e position soulèvement du 4 (do) vers si 3e doigt -> parasites
+- comment éliminer ce parasite ?
+- **hyothese** 4e doigt engourdi
+- 4e doigt trop long à se soulever
+- crispation du poignet gauche
+- **proposition d'expériences** 1. tenter de soulever plus instantanément le 4E doigt. cela change ?
+- refaire la même chose en plaçant la main au départ
+- refaire la même chose en enfonçant en plus le doigt dans la corde. cela change
+- 2. observer poignet gauche, le détendre => son?
+ 
+- **resultats test** non rien ne change
+- **hypothese** mon doigt ou archet touche les autres cordes et cela influe. Mes doigts tire la corde. Mon 4e doigt n'est pas au dessus de la corde. Mon 4e doigt est tendu. Mes doigts ne sont pas sur le coussin. Le coude gauche n'est pas bien ramené.
+- ** proposition d'expérience** veiller à ne pas ce que mes doigts / archet touchent les autres cordes
+- ne pas tirer la corde
+- 4e doigts au dessus de la corde
+- détendre 4e doigt
+- doigts sur coussin (coussin du doigt)
+- coude
+- **solutions retenues** le coussin au bout des doigts
+- le coude gauche
+- les doigt ou l'archet ne touchent que cette corde
+
+experience
+-
+| hypothese | experience / solution | solution retenue o/n |
+| --- | --- |
+| trop de pression d'archet | pression arco -- | N |
+| pas assez de pression des doigts main gauche | pression main gauche ++ | N |
+| détente des 2 pouces | détente | O |
+| pas assez de pression | pression arco ++ |
+| placement main | vérifier double contact des doigts arrondis |
+| se tenir droite | se tenir droite |
+| prise de contact archet corde | regarder archet frotter la corde | O |
+| posture | (dos) contre 1 mur | O |
+
+experience
+-
+- probleme 6e et 5e mesure avant le 2
+- **probleme** ce n'est juste
+- **hypothese** le demanche n'est pas propre
+
+| hypothese | experience / solution | solution retenue o/n |
+| --- | --- |
+| préparer le démanché | 2e visualiser | 
+| pas en rythme | métronome, dire le rythme |
+
+- comment vibrer plus ?
+
+
+
