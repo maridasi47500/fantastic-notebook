@@ -445,6 +445,7 @@ experience folle
 
 
 - solo de lalo
+
 | solution proposée  | améliore, détériore, fait stagner | 
 | --- | --- | 
 | archet à plat | mieux | 
