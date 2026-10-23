@@ -92,4 +92,125 @@ main gauche
 - tu as vu qu'il faut baisser l'épaule, tu as vu tout ce qu'il faut aussi baisser ?
 - 10/2013 2 personnes 1 qui s'éclate quand elle calcule rien
 - 1 qui serre et ferme tout quand elle calcule **tout** il faut trouver un équilibre, 1 milieu entre les 2
-- 
+
+- il faut arriver à se laisser aller dans la vitesse
+- 2 poignets, 2 pouces, 2 genoux règle des 2
+- -> basculer le poids du corps sur les deux pieds -> liberté du buste
+- IIIe partita
+- marches = crescendo
+- il y a des endroits où il faut allonger, à la pointe et mettre moins de pression et relacher (règle des 2)
+- il faut réfléchir, s'organiser
+- mes 97 : respecter liaisons
+- mes 109 : la couleur ressemble à la chaconne
+- s'organiser -> réfléchir à ce qu'on fait
+- savoir pourquoi on le fait
+- pourquoi on monte en IIIe position à cette endroit pourquoi/comment on le fait
+- ainsi on prend l'habitude de préparer
+- mesure 105 au talon
+- mesure 109 lentement on sent mieux les choses car dans la vitesse on ne se laisse pas aller
+  mesure 133 cadence
+- sur les fesses 91-97 point culminant
+- ce n'est pas bras qui accompagne le mouvement du corps c'est le corps qui accompagne le mouvement du bras
+- l'archet frottte
+- la cohérence de ce que tu fais, le prof de philo a dû te dire que ce que tu mettai c'était cohérent tant que c'était logique
+- organise-toi : réfléchis à ce que tu fais
+- tu joues instinctivement et tu ne dois pas
+- tu joues un peu de ta vie sur chaque note mais tu n'as pas prévu de parachute
+- organisation = prévoyance
+- qu'est-ce que je fais en cas de panne ? je prévois 1 gilet jaune, 1 triangle
+- en cas de chute -> un parachute -> pur ne pas mourir
+- en cas de soleil -> un parasol -> pour ne pas s'abimer la peau
+- organisation = prévoyance = imagination
+- imaginer ce qu'il pourrait advenir et prévoir
+- études
+- le violon c'est d'une précision, le violon c'est précis (comme un minuteur, ou un horloger)
+- il faut calculer le phrasé tout en laissant aller dans la vitesse
+- calculer au mm (millimètre) la place d'archet , pression en mM (millinewton)) et réfléchir, organiser le travail (attention à faire au calme, relax)
+- en fait c'est coomme beaucoup de trucs les maths c précis est un mauvais exemple
+- le ping pong, la cuisine c'est précis
+-  la chimie : les doses sont précises 100mL d'éthanol pas 101 attention
+-  attention le violon ne doit pas être un défouloir le violon c précis
+-  attention => alors trouver 1 autre défouloir , 1 sport n'importe lequel : la boxe, le taichi, le yoga, la course
+-  la condition pour jouer du violon
+-  le concert -> une récitation ? + un don au public
+-  mais on échappe au stress , on a confiance en soi, on "perform will", "through preparation" calculer calculer calculer, (plus en S(scientifique) ? pas une raison!)
+-  le trajet du poignet est l'articulation du poignet
+-  le violon c'est de la digestion
+-  il faut faire des efforts pour obtenir ce que l'on veut
+-  le poignet a des positions différentes selon les morceaux, les passages.
+-  mardi 13 novembre le poignet sentir l'articulation du poignet
+-  souple
+-  "baise-main"
+-  balle rebondissante que l'on jette
+-  poids des bras , c'est lourd 1 bras. on peut serrer sans coincer le bras.
+-  comme quand on pompe une roue de vélo
+-  10/12/13 main gauche le pouce en face du 1er doigt
+-  pour alléger le démanché alléger l'archet
+-  démancher avec 1 seul doigt (gauche)
+-  33 minutes reste 27 minutes
+-  17/12 sentir dans les doigts
+-  sentir dans les oreilles = beaucoup écouter (yeux fermés)
+-  beaucoup de ptience
+-  mesure -> phrase par phrase -> enchainement des phrases
+-  lentement -> même si le prof le reproche tant que c'est bien fait
+-  enchainer dans 2 mois
+-  9/2/14 maitrise le morceau c le jouer en rythme
+-  faut que ça fiche le camp
+-  travailler un passage de pure technique , rien de passionnel là dedans
+-  "visualiser" les doigts sans les regarder
+-  14/02/14 en français en histoire si on comprend le texte on fait une bonne dissert un bon com, on comprend le texte, on joue bien. mais comprendre ne veut pas dire connaitre le sens individuel de chaque mot
+-  il en est en meme pour le text violonistique (différence qu'il y a entre jouer et interpréter)
+-  le comprendre dans les doigts , dans l'archet, dans le phrasé dans le rythme
+-  pour le comprendre chercher à faire des rapprochements chercher ce qu'il veut dire (=trouver le mot juste en hist géo ou tourner autour de l'essence en philo le texte violonistique si on le joue bien = j'ai compris sa cohérence)
+-  travail de se construction du savoir dans la prise de notes pour le violon, un savoir qui reste, un travail de construction violonistique
+-  le petit doigt de la main gauche est le baromètre
+-  28/03 justesse, joli son, métronome
+-  29/03 mesure 75 calculer démanché
+-  chez moi c'est les doigts qui parlent avant le cerveau
+-  or pour le violon le cerveau devrait parler dans les mains
+-  je suis comme un chien fou
+-  le poignet comme la toue d'un train à vapeur
+-  14/4/14 comment acquérir de la technique au violon ? = la main comme un wagon, le manche = rails, corde 1/ doigts = rail 1, corde 2/poignet = rail 2
+-  faire 1 gamme
+-  se tenir droite
+-  identifier les passage dans les positions hautes et les travailler
+-  quand on a de l'expérience = on sait grâce au son repérer quand ça va pas
+-  s'entrainer
+-  pour placer (perso) la main en haut : jouer dans les position hautes. A force de jouer la main va finir par se placer toute seule
+-  flesch
+-  se tenir droite repirer
+-  répéter
+-  parasites
+-  problèmes rencontrés
+-  je ne tombe pas pile sur le démanché
+
+expérience
+-
+
+- **problemes rencontrés** : je ne tombe pas pile sur le démanché
+- 1. on entend le démanché
+  2. on entend le changement de corde
+  3. il n'y a pas de vibrato
+  4. on entend des parasites en do et si , la et sol
+ 
+- **hypotheses** :
+- 1. ma main serre trop le manche
+  - je ne me tiens pas assez droite
+  -  je n'ai pas pensé avant à où et comment j'allais positionner ma main
+  2. j'appuis trop l'archet
+  - l'archet n'est pas droit/de travers
+  - le coude ne se rèle pas en fonction de la corde frottée
+     3./4. les doigts ne se soulève pas assez vite, les doigts ne sont pas assez dynamiques
+  - la main est mal placée
+ - **propositions de solutions** : à travailler séparément puis à raccomoder
+ - 1. 1. moins serrer le manche
+   1.2.. se tenir droite
+   1.3. penser à où et comment je vais positionner ma main avant de démancher
+2.1. doser l'allongement la pression l'inclinaison la distance du chevalet
+- est-ce que je fais les bons coups d'archet, les bonnes nuances
+- 2.3. jouer avec l'archet droit
+- 2.4. le coude à mettre au bon niveau
+- ne pas monter l'épaule
+- 4.1. soulever les doigts plus vite
+- 4.2. soulever les doigts plus dynamiquement
+- 4.3. bien placer la main gauche le bas de la troisieme phallange du doigt contre le manche
