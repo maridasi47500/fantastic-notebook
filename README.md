@@ -359,7 +359,7 @@ experience folle
 | 4 | 1/2 | 
 | 5 | 1 (tout l'archet) |
 
-| qualité du son  | pression  archet de 1 à 10 | 
+| pression  archet |  qualité du son de 1 à 10 |
 | --- | --- | 
 | à peine | 1 | 
 | un peu | 5 |
@@ -368,7 +368,7 @@ experience folle
 | énormément | 4 | 
 
 
-| inclinaison archet  | pression  archet de 1 à 10 | 
+| inclinaison archet  | qualité du son de 1 à 10 | 
 | --- | --- | 
 | très incliné devant | 4 | 
 | un peu incliné devant | 5 |
@@ -383,8 +383,229 @@ experience folle
 
 
 
+- il y a de nombreux parasites lors du jeu
+
+
+| solution proposée  | améliore, détériore, fait stagner | 
+| --- | --- | 
+| ajout du vibrato | améliore | 
+| ne vibrer que les valeur longues | mieux |
+| vibrer encore plus | stagne (change rien) |
+| vibrer moins | améliore  |
+| allonger l'archet | améliore |
+| jouer très très près du chevalet | pire |
+| jouer à la touche | pire |
+| jouer au milieu ou près du chevalet | mieux |
+| beaucoup plus appuyé | pire |
+| l'archet appuyé à moitié | mieux |
+| un tout petit peu moins appuyé | mieux |
+
+- comment jouer un triolet de croche dans 1 seul archet ? comment diviser l'archet ? (tuplet 3/2 { a8 b c } )
+
+| division de l'archet pour un triolet de croche avec une liaison  | améliore, détériore, fait stagner | 
+| --- | --- | 
+| long court court | stagne | 
+| court long court | pire |
+| court court long | mieux |
+| court long long | mieux  |
+| court, moyen long, tres long | stagne |
+
+- comment jouer un blanche lié à la premiere croche de 2 croche dans 1 seul archet ? comment diviser l'archet ? (a2 (b8 c) )
+
+| division de l'archet pour un triolet de croche avec une liaison  | améliore, détériore, fait stagner | 
+| --- | --- | 
+| trois parts egales | pire | 
+| long court court | mieux |
+
+- mesure 7 réduction de l'allongement pour la ronde , l'archet est de plus en plus long / va de plus en plus vite, c'est mieux
+
+- mozart
+
+- comment jouer un triolet de croche dans 1 seul archet ? comment diviser l'archet ? (tuplet 3/2 { a8 b c } )
+
+| solution proposée  | améliore, détériore, fait stagner | 
+| --- | --- | 
+| meche à plat | mieux | 
+| une croche en 1/2 archet | mieux |
+| double contact | mieux |
+| le dos contre un mur | mieux  |
+| respiration | mieux |
+| sens appui contre un mur | mieux |
+| tout jouer à la pointe | pire |
+| talon | pire |
+| jouer les noires tout l'archet | pire |
+| jouer les croche avec un demi archet | mieux |
+| augmenter l'allongement des croches | ? |
 
 
 
+| division de l'archet pour un triolet de croche  | améliore, détériore, fait stagner | 
+| --- | --- | 
+| long court long |  
 
+
+- solo de lalo
+| solution proposée  | améliore, détériore, fait stagner | 
+| --- | --- | 
+| archet à plat | mieux | 
+| augmenter le vibrato | le vibrato n'augmenter pas malgré les efforts |
+
+
+| division de l'archet pour deux croches dans un seul archet legato  | améliore, détériore, fait stagner | 
+| --- | --- | 
+| long court | pire | 
+| court long  | pire |
+| parts égales | mieux |
+
+| division de l'archet pour deux croches dans un seul archet legato  | améliore, détériore, fait stagner | 
+| --- | --- | 
+| economiser au debut (court au debut) long les 2 derniere temps | ?  |
+| court les 3 premier temps , tres long le dernier | ? |
+
+- remarquer : le son est meilleur qu'hier
+- c'est parce que l'archet est à plat
+- en fait prendre comme repre une horizontalité fictive qu'un niveau à bulles ferait améliore le jeu
+- jouer près du chevalet mais pas trop près non plus
+
+- lalo
+| solution proposée  | améliore, détériore, fait stagner | 
+| --- | --- | 
+| tout l'archet et assez appuyé | pire | 
+| tout petit d'archet pour la mesure | change rien |
+| 1/2 archet pour quatre doubles | stagne |
+| 1/2 archet à la pointe pour quatre doubles | ? |
+| 1/2 archet au talon pour quatre doubles | pire |
+ - marquer l'archet
+ - le vibrato ce sont des ondulations ~~~~~~
+ - si le rythme est noire deux croches (a4 b8 c) le vibrato est sur la premiere noire
+
+| rythme qu'on a  | vibrato qu'il faut faire | 
+| --- | --- | 
+| a4 b8 c | le vibrato est sur la premiere noire  |
+| a4 b | le vibrato est sur la premiere noire |
+
+- je veux que ce soit dynamique, brillant, chantant, vibré, forte, vivant
+- exemple : concentration sur la respiration -> je n'arrive pas à me concentrer en même temps sur la respiration et sur ce que j'entends
+- a16 aaa a4 (a) a4 (a8 a) a4 a
+
+- jouer comme ça : par exemple : je presse normal et j'llonge normale , d'un seul coup je presse beaucoup et j'allonge quasiment pas, puis tout de suite après, je represse normal, et j'allonge de plus en plus
+- si je renverse les valeurs et que je joue, c'est pire
+- j'apprends à décomposer le vibrato , le vibrato doit être fait vers le haut et non pas vers le bas et vers le haut sinon il est pas beau
+
+- paramètre physique/ paramètre du corps
+- la position , force, vitesse
+- paramètre physique : archet : pression , allongement, inclinaison, distance du point de contact du chavalet
+- ls doigts main gauche : intensité et fréquence du vibrato
+
+- tête = intelligent/intellect
+- main droite : archet, lier détacher, tout l'archet, allonger/diminuer
+- main gauche : changement de doigté, démancher
+- le pouce est comme sur des rails , quand il démanche il avance sur un rails qui fait un virage
+- quelle expérience je pourrais tester ?
+- pourquoi je tiens mon archet
+- quel changement je pourrais apporter ?
+- pourquoi j'utilise tout l'archet pour les accords de début
+- mes doigts ne sont pas assez arrondis au dessus de la corde
+- je veux apprendre à bien jouer dans les aigus
+- mes doigts ne s'enfoncent pas dans le coussin des doigts sur la corde
+- est-ce que je devrais faire les trilles plus vite ?
+
+exercice /experience
+-
+
+- faire comme si j'étais le professeur de violon
+- quel question il devrait me poser au prochain cours
+- est-ce que c'est en rythme
+- est-ce que ce que je joue est joli
+- 26
+- repérer les passages qui se ressemblent, qui sont différents
+- Violin = meaningful technique , what do I want to accomplish today ? associate emotions = learning faster
+- objectif à long terme : technique : faire plusieurs variations du vibrato
+- critique, je n'ai pas marqué le temps , les objectifs , et les résultats de mes expériences à long terme
+
+- pour apprendre à apprendre : définir un objectif
+- objectif(quoi)
+- variables : nombre de répétitions de l'expérience, comment la tester, intervalle de temps des répétitions des expériences (=fréquence)
+- temps requis pour effectuer l'expérience
+- temps requis pour s'attendre à des résultats
+- conclusion : nature de l'échec : choses à changer dans le comment + renouvellement de l'expérience
+
+objectif
+-
+
+- je veux apprendre à .. + comment ?
+- objectif : je veux apprendre le Lalo
+- comment : je le joue/ Je marque par crochets les passages à améliorer
+- je ne m'autorise plus à jouer que ça
+- Nuances , contrastes : ce que je dois apporter, ce que je veux exprimer
+- méthode 1 2 ou 3 ? critique long vs court terme
+- je veux apprendre à jouer aisément dans les aigus ou vibrer
+- apprentissage ayant 1 sens
+- technique
+- 1. jouer
+  2. dire ce que je veux exprimer excatmenet (étape difficile)
+     A. mes propres mots
+     B. en chantant
+  - comment je devrais dire ce que je veux exprimer
+  3. donner des idées d'expériences de changement à effectuerpour obtenir le résultat voulu
+    - dois je travailler sans vibrato
+    - est-ce que une question constructive ? non car la réponse est oui ou non
+    - que doit exprimer le vibrato dans le lalo ? de quelle intensité doit être le vibrato et de quelle vitesse pour jouer brillament le Lalo ?
+    - comment reconnaitre les bonnes questions
+    - les bonnes questions doivent changer le jeu
+    - essai je joue une fois
+    - je note mes observations (pas ce que je fais mais comment je le fais)
+    - pour chaque observation, je tourne l'observation en pourquoi (pourquoi je fais ça)
+    - je donne des argument pour
+    - et les contre argument -> si j'y arrive c'est ce que je peux changer
+    - ordre : mise en place rythmique
+    - pourquoi inclinaison, pression, allongement
+    - je veux apprendre que le passage sonne chantant , têtu,  borne,
+    - je veux exprimer quoi ? pourquoi ? comment savoir si ça doit être triste ?
+    - What do I want to accomplish today ?
+    - quels paramètres que je changer ?archet -> pression, allongement, inclinaison, vitesse, archet droit
+    - ce que j'ai appris
+    - pour le vibrato, travailler le poignet
+    - trouver la position entre 2 : là où le vibrato ressort joliment
+    - jouer n'est pas travailler le violon, il ne faut pas jouer le morceau d'un bout à l'autre, il faut découper la partition en passages
+    - travailler passage A, B, C
+    - travailler en y pensant, travailler en pensant à comment le faire (la manière) (pour exprimer ceci ou cela)
+      
+    - et tenter des expériences 
+    - les noter si besoin est
+    - changer des paramètre dans les expérience
+    - comment ne pas dissocier la musicalité en travaillant
+      
+  1ère étape
+  -
+  
+    - idée : jouer d'abord très près de la partition comme une machine (sans vibrato), séparer l'archet en autant de segments (de longueurs égales) qu'il y a de notes dans une liaison.
+    - pour les passages pas propre répéter, répéter
+    - jusqu'à ce que  ce soit propre répéter, répéter
+    - vite , lentement, répétez en essayant diverses variations
+    - si c'est en place (doigtés nickels) et propre et juste (avec métronome) alors c'est ok
+
+2ème étape
+-
+
+- définir au préalable comment ou voudrait que cela sonne
+- proposer des expériences de changement . cela peut concerner :
+- vibrato : fréquence, intensité
+- archet : longueurs, vitesse, inclinaison, pression POUR ATTEINDRE L'EXPRESSION ET LA MUSICALITE MAXIMALE
+
+- choses à noter  lors de mon travail
+- 1ere etape (noter sur la partition) : les positions (1e, 2e, 3e)
+- le sens d'archet (tiré/poussé)
+- les images qui m'aident à mieux jouer
+- 2eme etpe (noter sur mon cahier)
+- objectifs : nuance, ton, expression
+- experiences (-> parametre) , si ca ameliorer , fait stagner, ou si c'est pire
+- + répétition
+ 
+- vibrato près du manche en bas de la troisieme phallange de l'index
+- ne pas soulever l'épaule (le sentir)
+- comment construire le jeu ?
+- jouer, prendre plaisir à maîtriser
+- diviser (par groupes)
+- répartir / place d'archet
 
