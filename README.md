@@ -197,16 +197,16 @@ expérience
 - 1. ma main serre trop le manche
   - je ne me tiens pas assez droite
   -  je n'ai pas pensé avant à où et comment j'allais positionner ma main
-  2. j'appuis trop l'archet
+ -  2. j'appuis trop l'archet
   - l'archet n'est pas droit/de travers
   - le coude ne se rèle pas en fonction de la corde frottée
-     3./4. les doigts ne se soulève pas assez vite, les doigts ne sont pas assez dynamiques
+- 3./4. les doigts ne se soulève pas assez vite, les doigts ne sont pas assez dynamiques
   - la main est mal placée
  - **propositions de solutions** : à travailler séparément puis à raccomoder
  - 1. 1. moins serrer le manche
    1.2.. se tenir droite
    1.3. penser à où et comment je vais positionner ma main avant de démancher
-2.1. doser l'allongement la pression l'inclinaison la distance du chevalet
+- 2.1. doser l'allongement la pression l'inclinaison la distance du chevalet
 - est-ce que je fais les bons coups d'archet, les bonnes nuances
 - 2.3. jouer avec l'archet droit
 - 2.4. le coude à mettre au bon niveau
