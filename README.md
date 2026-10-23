@@ -1,0 +1,95 @@
+# fantastic-notebook
+violin
+- exercice j. s. bach IIIe partita preludio 1006
+- mes 16 à 54 faire les doigtés et coups d'archets écrits
+- tenue d'archet détente des 2 pouces
+- le pouce doigt presse le doigt sur sur 1 petite surface
+- le petit doigt en arrière
+- index 2e phalange
+
+main gauche
+-
+- double securité
+- pouce base de l'index
+- ou pouce table / base de la main
+- pose des doigts sur la pointe le "coussin"
+- ne pas flanquer de coups
+- ton professeur c'est tes oreilles
+- le secret du violon est la détente des 2 pouces
+- poyur beaucoup de choses le secret est la détente
+- cours n°1
+- limiter longueur
+- place d'archet
+- cher moi
+- musicalité ++
+- technicienne --
+- se donenr les moyens d'y arriver
+- acquérir de la technique
+- observer l'archet du violoniste
+- comparaison avant bras, poignet et main du violoniste qui manie l'archet avec un bras/articulation de locomotive
+- pas sur la touche , entre le chevalet et la touche
+- soigner le départ , pas de travers attention au départ
+- ne pas trop allonge
+- attention au pouce qui se raidit
+- attention à la monotonie des coups d'archets (mauvais)
+- il faut altérer la pression, allongement
+- se tenir droite l'archet un peu incliné vers le chevalet
+- mesure : marche de nuances crescendo
+- =  à chaque fois on monte 3 marches
+- attention jouer propre
+- balle qui rebondit profiter du rebond
+- épaule
+- aller-retout de l'avant bras
+- dans les doigts de la main gauche ça bouge
+- il faut tout mettre dans l'index à droite
+- poignet droit plié
+- quand Bach écrit le prélude il sous entend des soupirs, demi soupirs les croches ne durent pas
+- profiter du rebond
+- quand ça monte dans les croches, crescendo
+- descente decrescendo
+- l'allongement et le rebond est comme une balle qui fait un crescendo decrescendo
+- canaliser mon énergie
+- il faut faire tout petit
+- il faut presque pas allonger
+- avec le prélude en mi il faut prendre le temps de sentir les choses
+- 17/9 avec mon violon je suis comme dans un labo de chimie je "dose" la pression l'allongement
+- 2e index par dessus le 1er
+- filmer le pouce par en dessous comme dans les films d'itzhak perlman
+- 24/9 enlever bosses aux doigts
+- 31/9/13 légende
+- élan de l'archet
+- comment en poussant
+- interpréter != jouer
+- interpreter faire des choses en plus de ce qui est écrit
+- jouer faire ce qui est écrit
+- vibrato garder contact base index (pas le dessous) avec le manche
+- trilles les triples croches sont douces
+- on entend pas l'harmonique
+- pour étoffer le démanche en arrière, reculer d'abord le pouce
+- démancher : repères visuels
+- détendre relacher genoux
+- attention page 2 compter les temps de la mesure pour qu'il y en ait 3
+- plus vite
+- mesure 29 : attentiion on change les notes se suivent
+- f/p
+- raccourcir l'archet (les grandes personnes allongent, les plus petites font plus court)
+- = espace de prédilection milieu/pointe
+- attention épaule -> tout baisser (finalement)
+- ne pas allonger autant pour avoir l'effet voulu
+- légende vibrato : va avec l'élan donné par l'archet
+- le truc le plus difficile en violon : conserver le vibrato entre 2 notes
+- corde de sol/ré de la 1 à la octave 4 , trille 2e doigt plus facile sinon on ramène le pouce vers soi
+
+- 4e exercice à tempo double corde do bécart pas juste
+- double corde : poser le 1e et 4e doigt seulement pas les autres doigts
+- violon super précis
+- fiorillo étude 21
+- 2e page
+- main droite dans les hautes positions
+- il y a une progression de la main
+- gammes jouer entre chevalet et touche
+- 4e extension (aigu corde de mi) ramener coude
+- tu as vu qu'il faut baisser l'épaule, tu as vu tout ce qu'il faut aussi baisser ?
+- 10/2013 2 personnes 1 qui s'éclate quand elle calcule rien
+- 1 qui serre et ferme tout quand elle calcule **tout** il faut trouver un équilibre, 1 milieu entre les 2
+- 
