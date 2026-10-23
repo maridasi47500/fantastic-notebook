@@ -613,3 +613,4 @@ objectif
 - diviser (par groupes)
 - répartir / place d'archet
 
+- pour le violon, il y a pas de secret, il faut travailler
