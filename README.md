@@ -280,6 +280,111 @@ experience
 | pas en rythme | métronome, dire le rythme |
 
 - comment vibrer plus ?
+- la position de la main influe sur la qualité de la vibration
+- main mal placée => vibrato tremblant
+- mettre le manche collé et jouer la mesure
+
+| distance point d'appui | qualité vibrato | 
+| --- | --- | 
+| avant | 2 | 
+| bonne distance | 3 |
+| bonne distance | 3 |
+| bonne distance | 2 |
+
+- différence 3 + 3 + 2 / 3 - 2 = 0.66
+- la position correcte du point d'appui avec le bord de l'index a augmenté la qualité du vibrato de 0.6
+- variables qualité du vobrato
+- la distance du point d'appui est entre le creux le plus bas entre le pouce et l'index et le bas de la troisieme phallange de l'index
+- **conclusion et explication** la position du point d'appui n'est la la cuase majeure de la qualité du vibrato, il y a d'autre causes, je n'ai pas pensé à l'idéal sonore avant. expérience  à être plus répétée. peut être que le do doit être vibré plus que le fa qui le précède.
+- le do doit être très vibr& , et l'archet allongé
+- les rythmes se raccourcissent -> ça veut dire quoi
+- pourquoi je fais les trills à cette vitesse là
+
+experience folle
+-
+
+- jouer une ligne et demie à la pointe (sur 10 cm) 
+
+| key (parameter) | value de 1 à 10 | 
+| --- | --- | 
+| qualité du son | 3 | 
+| rythme | 4 |
+| justesse | 7 |
+| efforts | 5 |
+| respect des nuances | 3 |
+
+- **conclusion** mon jeu manque cruellement de vibrato
+- ma justesse n'est pas mauvaise mais pas parfaite
+- je joue sans but
+- je ne concilie pas assez technique et musicalité
+- à quoi devrait ressembler ce passage ?
+- a''4 (~a''8 f'') c'' (a') tuplet 3 { d''8 c'' b' } c''2 b'4
+
+- "chien fou"
+- 1. 5e 6e mesure joué 1 fois
+- je ne l'ai pas joué ff
+- je ne l'ai pas joué appassionato (=petit message que lalo me laisse)
+- les accents ne sont pas joués
+- archet plus près du chevalet et droit => meilleur son
+- variation de
+  
+| variation de | physiquement | 
+| --- | --- | 
+| pression, allongement | hauteur du bras | 
+| inclinaison | (degrés d'ouverture) |
+| distance du chevalet | qualité du son 1-10 , vibrato |
+
+- marche à suivre : surveiller la prise de son et l'angle teta du bras (epaule à bras)
+- allonger, pas trop appuyer, marquer davantage les accents
+- vibrer les valeurs longues
+- Marche à suivre
+
+
+| nombre essais | ce qu'il faut faire | 
+| --- | --- | 
+| 10 essais | allongement 5 cm -> tout l'archet (G) | 
+| 5 essais | pression - 0,001N -> écrasement |
+| 5 essais | inclinaison de l'archet |
+| 5 essais | distance du chevalet |
+
+
+| qualité du son de 1 à 10 | allongement archet | 
+| --- | --- | 
+| 0.5 | 5 cm | 
+| 1 | 1/8 |
+| 2 | 1/6 |
+| 2.5 | 1/5 |
+| 3 | 1/4 | 
+| 3.5 | 1/3 |
+| 4 | 1/2 | 
+| 5 | 1 (tout l'archet) |
+
+| qualité du son  | pression  archet de 1 à 10 | 
+| --- | --- | 
+| à peine | 1 | 
+| un peu | 5 |
+| moyen | 5 |
+| beaucoup | 5  |
+| énormément | 4 | 
+
+
+| inclinaison archet  | pression  archet de 1 à 10 | 
+| --- | --- | 
+| très incliné devant | 4 | 
+| un peu incliné devant | 5 |
+| légèrement incliné | 6.5 |
+| à plat | 6  |
+| très incliné à l'arrière | 5 | 
+
+- archet à la corde : touche, piano, mf, f, ff
+- puissance du vibrato : de 1 à 9
+- **conclusion** : il faut jouer mèche à plat près du chevalet et ne pas trop appuyer
+
+
+
+
+
+
 
 
 
