@@ -468,6 +468,8 @@ experience folle
 - jouer près du chevalet mais pas trop près non plus
 
 - lalo
+
+
 | solution proposée  | améliore, détériore, fait stagner | 
 | --- | --- | 
 | tout l'archet et assez appuyé | pire | 
@@ -475,6 +477,7 @@ experience folle
 | 1/2 archet pour quatre doubles | stagne |
 | 1/2 archet à la pointe pour quatre doubles | ? |
 | 1/2 archet au talon pour quatre doubles | pire |
+
  - marquer l'archet
  - le vibrato ce sont des ondulations ~~~~~~
  - si le rythme est noire deux croches (a4 b8 c) le vibrato est sur la premiere noire
