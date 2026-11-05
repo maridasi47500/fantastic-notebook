@@ -7,6 +7,7 @@
 ![alt text](score6.jpg)
 ![alt text](score7.jpg)
 ![alt text](score8.jpg)
+![alt text](score9.jpg)
 violin
 - exercice j. s. bach IIIe partita preludio 1006
 - mes 16 à 54 faire les doigtés et coups d'archets écrits

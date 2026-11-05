@@ -1,4 +1,12 @@
 # fantastic-notebook
+![alt text](score1.jpg)
+![alt text](score2.jpg)
+![alt text](score3.jpg)
+![alt text](score4.jpg)
+![alt text](score5.jpg)
+![alt text](score6.jpg)
+![alt text](score7.jpg)
+![alt text](score8.jpg)
 violin
 - exercice j. s. bach IIIe partita preludio 1006
 - mes 16 à 54 faire les doigtés et coups d'archets écrits
